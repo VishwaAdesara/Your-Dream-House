@@ -1,0 +1,48 @@
+/* review-page.css */
+
+.review-page {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .review-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .review-item {
+    margin-bottom: 30px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .review-rating {
+    font-weight: bold;
+    font-size: 18px;
+    color: #349a5e; /* Green color for ratings */
+  }
+  
+  .review-author {
+    margin-top: 10px;
+    font-style: italic;
+    color: #666;
+  }
+  
+  .review-text {
+    margin-top: 10px;
+    font-size: 16px;
+    line-height: 1.4;
+  }
+  
+  /* You can further customize the styles to match your website's design. */
+  

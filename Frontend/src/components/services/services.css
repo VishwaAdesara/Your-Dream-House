@@ -1,0 +1,63 @@
+/* ServicesPage.css */
+
+.services-page {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+.se
+{
+    text-align: center;
+    background-color: cadetblue;
+    font-size: 50px;
+} 
+.h2c
+{
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-align: center;
+}
+.h2c:hover
+{
+    background-color:goldenrod;
+}
+.m1
+{
+    font-size: 30px;
+} 
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 16px;
+    margin-bottom: 30px;
+  }
+  
+  section {
+    margin-bottom: 40px;
+  }
+  
+  h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    font-size: 18px;
+  }
+  
+  /* You can add more CSS styling to customize the appearance of your services page as needed. */
+  
